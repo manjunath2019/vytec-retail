@@ -1,4 +1,10 @@
 pipeline{
+
 tools{
+
+stages{
+ Staged()
+
+}
 }
 }
